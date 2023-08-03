@@ -1,6 +1,5 @@
 <h3 align="center">DEVELOPER | PROGRAMMER | LEARNER</h3>
 <br>
-<br>
 
 
 
