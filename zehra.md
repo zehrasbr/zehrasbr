@@ -1,4 +1,4 @@
-<h3 align="center">DEVELOPER | PROGRAMMER | LEARNER</h3>
+<h3 align="center">SOFTWARE DEVELOPER | PROGRAMMER | LEARNER</h3>
 <br>
 
 
