@@ -1,6 +1,4 @@
-<h3 align="center">DEVELOPER | PROGRAMMER | LEARNER</h3>
-<br>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4B1F7&center=true&vCenter=true&width=435&lines=DEVELOPER+%7C+PROGRAMMER+%7C+LEARNER" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4B1F7&width=435&lines=DEVELOPER+%7C+PROGRAMMER+%7C+LEARNER" alt="Typing SVG" /></a>
 
 
