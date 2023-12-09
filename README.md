@@ -1,6 +1,6 @@
 
 
-<center><a href="https://cumsoft.gumroad.com">
+<center><a href="">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="CumsoftOS" style="width:600px;height:80px;">
 </a><center>
   
