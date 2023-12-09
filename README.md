@@ -1,11 +1,9 @@
-
-
-<center><a href="">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="CumsoftOS" style="width:600px;height:80px;">
-</a><center>
+<p align="center">
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+Welcome+to+My+GitHub+Profile!;Software%20Developer%20&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=34%22"></a>
+</p>
   
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
+    <a href="">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=zehrasbr&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
