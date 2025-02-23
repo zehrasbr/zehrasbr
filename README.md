@@ -12,6 +12,5 @@
 <a href="https://github.com/zehrasbr">
 <div align="center">
   <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=zehrasbr&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=FFE2E2&icon_color=BCCCDC&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Bastian Dev github stats" />
-<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrasbr&layout=compact&hide_border=true&title_color=FFCCE1&text_color=FFCCE1&bg_color=0d1117" />
 </div> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4D9FF&height=120&section=footer"/>
